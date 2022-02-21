@@ -18,11 +18,6 @@ using System;
 # 🎓 My knowledge:
 C++, C#, RUST, ML.NET, EF CORE, SQL, Unity, TCP/IP, GMap, .NET, OpenGL, OpenCV, .NET, WinForms, Xamarin
 
-# 🌍 I'm in social networks
-[Instagram]("Instagram.com/qiapc/")
-[Telegram]("t.me/svprax/")
-[My Telegram Channel]("t.me/andreyprojects")
-[My twitter]("twitter.com/svpraprog/")
 
 # 📊 My stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svpra&theme=omni&count_private=true&icons=true)
@@ -32,3 +27,8 @@ C++, C#, RUST, ML.NET, EF CORE, SQL, Unity, TCP/IP, GMap, .NET, OpenGL, OpenCV, 
 # 🎶 What i am listening on Spotify now
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dko1n4ehyz1kxpjbmb243zfmh&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+# 🌍 I'm in social networks
+[Instagram]("Instagram.com/qiapc/")
+[Telegram]("t.me/svprax/")
+[My Telegram Channel]("t.me/andreyprojects")
+[My twitter]("twitter.com/svpraprog/")
