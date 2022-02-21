@@ -32,3 +32,5 @@ C++, C#, RUST, ML.NET, EF CORE, SQL, Unity, TCP/IP, GMap, .NET, OpenGL, OpenCV, 
 [Telegram]("t.me/svprax/")
 [My Telegram Channel]("t.me/andreyprojects")
 [My twitter]("twitter.com/svpraprog/")
+
+![](https://komarev.com/ghpvc/?username=svpra&color=brightgreen)
