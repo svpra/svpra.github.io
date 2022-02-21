@@ -14,3 +14,9 @@ using System;
 
 # 🎓 My knowledge:
 C++, C#, RUST, ML.NET, EF CORE, SQL, Unity, TCP/IP, GMap, .NET, OpenGL, OpenCV, .NET, WinForms, Xamarin
+
+# 🌍 I'm in social networks
+[Instagram]("Instagram.com/qiapc/")
+[Telegram]("t.me/svprax/")
+[My Telegram Channel]("t.me/andreyprojects")
+[My twitter]("twitter.com/svpraprog/")
