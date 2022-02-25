@@ -9,10 +9,13 @@ code block
 
 ```csharp
 using System;
-    class Program {
+
+class Program {
+    static void Main(string[] args) {
         Console.WriteLine("Hello, i am SVPRA 👋");
         }
     }
+
 ```
 
 # 🎓 My knowledge:
