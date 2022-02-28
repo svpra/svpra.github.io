@@ -19,7 +19,7 @@ class Program {
 ```
 
 # 🎓 My knowledge:
-C++, C#, RUST, ML.NET, EF CORE, SQL, Unity, TCP/IP, GMap, .NET, OpenGL, OpenCV, .NET, WinForms, Xamarin
+C++, C#, RUST, ML.NET, EF CORE, SQL, Unity, TCP/IP, GMap, .NET, OpenGL, OpenCV, .NET, WinForms, Xamarin, AMQP, HTTP, Cargo
 
 
 # 📊 My stats
