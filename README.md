@@ -33,7 +33,7 @@ C++, C#, RUST, ML.NET, EF CORE, SQL, Unity, TCP/IP, GMap, .NET, OpenGL, OpenCV, 
 # 🌍 I'm in social networks
 [Instagram](https://Instagram.com/qiapc/)
 [Telegram](https://t.me/svprax/)
-[Telegram Channel](https://t.me/andreyprojects/)
+[Telegram Channel](https://t.me/svpraprog/)
 [Twitter](https://twitter.com/svpraprog/)
 
 ![](https://komarev.com/ghpvc/?username=svpra&color=brightgreen)
