@@ -32,7 +32,15 @@
 </head>
 <body class="center">
 <script>
-
+            var test = false;
+            if (!test) {
+                function isMobile() {
+                    return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)
+                }
+                if (isMobile()) {
+                    window.location.replace("m")
+                }
+            }
             function is_shit() {
                 if (/MSIE/i.test(navigator.userAgent)) return true
                 if (/firefox/i.test(navigator.userAgent)) return true
