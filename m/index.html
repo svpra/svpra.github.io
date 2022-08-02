@@ -1,0 +1,114 @@
+
+<html>
+<head>
+<meta charset="utf-8">
+<title>SVPRA</title>
+<meta property="og:title" content="SVPRA">
+<meta property="og:locale" content="en_EU">
+<meta property="og:description" content="SVPRA">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" href="../assets/files/ico.png" type="image/png">
+<link rel="stylesheet" href="../assets/vars.css">
+<link rel="stylesheet" href="../assets/fonts/gsans/style.css">
+<link rel="stylesheet" href="../assets/css/m/style.css">
+<link rel="stylesheet" href="../assets/css/m/bootstrap.css">
+<link rel="stylesheet" href="https://cdn.materialdesignicons.com/4.5.95/css/materialdesignicons.min.css">
+<script src="https://sindresorhus.com/devtools-detect/index.js"></script>
+<script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+<script src="../assets/css/index/js/text.js"></script>
+<script src="../assets/css/index/js/typed.min.js"></script>
+<meta name="theme-color" content="#191919">
+</head>
+<script>
+        var test = false
+        if (!test) {
+            function isMacintosh() {
+                return navigator.platform.indexOf('Mac') > -1
+            }
+
+            function isWindows() {
+                return navigator.platform.indexOf('Win') > -1
+            }
+
+            if(isMacintosh()|| isWindows()) {
+                window.location.replace("../")
+            }
+        }
+    </script>
+<div id="page-preloader">
+<span class="spin mdi mdi-loading mdi-spin"></span>
+<script type="text/javascript">
+            $(window).on('load', function () {
+                var $preloader = $('#page-preloader'),
+                $spinner   = $preloader.find('.spin');
+                $spinner.delay(100).fadeOut('slow');
+                $preloader.delay(450).fadeOut('slow');
+            });
+            function is_shit() {
+                if (/MSIE/i.test(navigator.userAgent)) return true
+                if (/firefox/i.test(navigator.userAgent)) return true
+                if (/Trident/i.test(navigator.userAgent)) return true
+                if (/Edge/i.test(navigator.userAgent)) return true
+                return false
+            }
+            if (is_shit()) {
+                document.body.style.backgroundImage = "url('../assets/files/background.gif')";
+            }
+        </script>
+</div>
+<body class="center blur">
+<header class="center info">
+<div class="center upperinfo">
+<div class="avatar-container"><img src="../assets/files/ava.jpg" oncontextmenu="return false;" class="avatar"></div>
+<h2><span id="name">Fl1yd</span></h2>
+<hr width="295">
+<h3><span id="description" class="typed"></span></h3>
+</div>
+<div class="center upperinfo"><h2>Links</h2></div>
+<div class="social linkMenu d-flex justify-content-center">
+<a href="javascript://" onclick="location.href='tg://resolve?domain=svprax'" class="mx-2 social-icon" data-tooltip="Telegram">
+<span class="mdi mdi-telegram"></span>
+</a>
+<a href="javascript://" onclick="location.href='tg://resolve?domain=mbfchat'" class="mx-2 social-icon" data-tooltip="Chat">
+<span class="mdi mdi-wechat"></span>
+</a>
+
+<a href="javascript://" onclick="location.href='https://discord.gg/RTksJJDC'" class="mx-2 social-icon" data-tooltip="Discord">
+<span class="mdi mdi-discord"></span>
+</a>
+<a href="javascript://" onclick="location.href='http://github.com/svpra'" class="mx-2 social-icon" data-tooltip="GitHub">
+<span class="mdi mdi-github-circle"></span>
+</a>
+</div>
+<div class="center upperinfo">
+<h2>Some stuff</h2>
+</div>
+<div class="social linkMenu d-flex justify-content-center">
+<a class="mx-2 social-icon" data-tooltip="Donate" href="#" data-toggle="modal" data-target="#donut">
+<span class="mdi mdi-heart-outline"></span>
+</a>
+<a href="javascript://" onclick="location.href='https://github.com/svpra'" class="mx-2 social-icon" data-tooltip="Some projects">
+<span class="mdi mdi-folder-outline"></span>
+</a>
+</div>
+<div class="modal fade" id="donut" tabindex="-1" role="dialog" aria-labelledby="..." aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h2 class="modal-title gsmedium" id="ModalLabel">Donate</h2>
+<a class="close" data-dismiss="modal" aria-label="Close"><span class="black clickable mdi mdi-24px mdi-close"></span></a>
+</div>
+<div class="modal-body black">
+<a href="javascript://" onclick="location.href='https://qiwi.com/n/FL1YD'" class="btn btn-donut pl-3 mb-3 mx-1">
+<span class="mdi mdi-coin"></span>
+<span class="mx-2">QIWI</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</header>
+</body>
+</html>
