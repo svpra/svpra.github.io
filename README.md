@@ -5,3 +5,4 @@
 ```
 gh repo clone svpra/svpra.github.io
 ```
+ну или просто скачивайте zip через веб версию
